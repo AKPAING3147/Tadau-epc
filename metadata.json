@@ -1,0 +1,5 @@
+{
+  "name": "TadaU Power Schedule (Group A)",
+  "description": "Electricity schedule tracker for TadaU Group A (December). Displays current status, countdowns, and a full monthly calendar in Burmese.",
+  "requestFramePermissions": []
+}
